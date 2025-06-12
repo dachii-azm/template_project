@@ -1,0 +1,6 @@
+run:
+  mode: test
+  seed: 42
+  device: cuda
+  num_gpus: 1
+  batch_size: 4
