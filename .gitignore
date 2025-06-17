@@ -1,6 +1,13 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 
+output/
+outputs/
+data/
+checkpoint/
+checkpoints/
+ckpt/
+
 # C extensions
 *.so
 
